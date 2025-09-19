@@ -8,7 +8,7 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Image Preprocessing Pipeline**
 
@@ -28,7 +28,7 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Source: Fetal heart ultrasound dataset 
 * Classes: **LVOT**, **RVOT**, **3VT**, **4C**
@@ -37,7 +37,7 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 * **Languages & Libraries:** Python, TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, PIL
 * **Visualization:** Matplotlib, Seaborn
@@ -46,7 +46,7 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-## 📊 Results
+##  Results
 
 * GAN-based enhancement achieved **98.9% segmentation accuracy**.
 * PCA + K-Means improved anatomical pattern recognition.
@@ -54,18 +54,7 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-## 📌 Project Structure
 
-```
-├── preprocessing/          # Image resizing, normalization, sharpening
-├── clustering/             # K-Means & Hierarchical clustering
-├── gan/                    # Pix2Pix GAN model implementation
-├── gradcam/                # Grad-CAM visualization scripts
-├── results/                # Output images and evaluation plots
-└── README.md               # Project documentation
-```
-
----
 
 
 ## 📜 Publications

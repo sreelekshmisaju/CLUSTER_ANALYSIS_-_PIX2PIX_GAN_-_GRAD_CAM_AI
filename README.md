@@ -77,4 +77,4 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-Would you like me to also create a **requirements.txt** (with TensorFlow, Keras, scikit-learn, etc.) so you can directly add it to your GitHub repo?
+

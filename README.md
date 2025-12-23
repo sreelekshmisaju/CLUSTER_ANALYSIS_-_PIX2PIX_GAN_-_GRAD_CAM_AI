@@ -1,8 +1,6 @@
-Here’s a **GitHub-ready README.md** for your project based on the PDF content and your project details:
 
----
 
-# 🩺 Fetal Heart Ultrasound Image Enhancement and Anatomical Feature Recognition
+#  Fetal Heart Ultrasound Image Enhancement and Anatomical Feature Recognition
 
 This project focuses on **enhancing fetal heart ultrasound images** and performing **anatomical feature recognition** using advanced AI techniques. It integrates **Pix2Pix GAN**, **Grad-CAM**, and **clustering methods** (K-Means & Hierarchical) to improve diagnostic accuracy in fetal echocardiography.
 
@@ -37,7 +35,7 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Languages & Libraries:** Python, TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, PIL
 * **Visualization:** Matplotlib, Seaborn
@@ -57,13 +55,8 @@ This project focuses on **enhancing fetal heart ultrasound images** and performi
 
 
 
-## 📜 Publications
+##  Publications
 
 * **IEEE (2024):** *Fetal Heart Ultrasound Image Enhancement and Anatomical Feature Recognition via GAN and Grad-CAM*
-
-
-✨ *This project demonstrates the potential of AI in healthcare imaging by combining deep learning, clustering, and explainable AI techniques.*
-
----
 
 
